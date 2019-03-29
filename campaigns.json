@@ -3,7 +3,7 @@
 		"showOnlyLiveCampaigns": false,
 		"sortBy": "title/startDate/endDate"
 	},
-	"campaigns": [{
+	"campaigns": [
 			"title": "Wiki Loves Monuments",
 			"description": "Wiki Loves Monuments",
 			"startDate": "2018-09-01",
